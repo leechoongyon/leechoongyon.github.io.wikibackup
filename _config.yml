@@ -1,5 +1,5 @@
 # (string) Title of your wiki
-title: 
+title: Simple is best
 # (string) Description of your wiki
 description: 
 # (boolean) disable edit functionalities (edit/delete/add pages)
@@ -21,7 +21,7 @@ permalink: "/assets/blog/posts/:year/:month/:day/:title:output_ext"
 # (boolean) Enable/disable download buttons in sidebar
 show_downloads: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
-git_branch: "master"
+git_branch: "main"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url: 
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
